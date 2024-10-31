@@ -1,0 +1,47 @@
+[
+    {
+        "name": "codexpert/plugin",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://bitbucket.org/codexpertio/codexpert-plugin.git",
+            "reference": "82974ea94de0ec1cfbb843685c2f218edfd38ee4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://bitbucket.org/codexpertio/codexpert-plugin/get/82974ea94de0ec1cfbb843685c2f218edfd38ee4.zip",
+            "reference": "82974ea94de0ec1cfbb843685c2f218edfd38ee4",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2021-11-08T06:39:40+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Codexpert",
+                "email": "hello@codexpert.io",
+                "homepage": "https://codexpert.io",
+                "role": "Developer"
+            }
+        ],
+        "description": "Plugin tools for Codexpert",
+        "homepage": "https://bitbucket.org/codexpertio/codexpert-plugin",
+        "keywords": [
+            "codexpert",
+            "plugin"
+        ]
+    }
+]

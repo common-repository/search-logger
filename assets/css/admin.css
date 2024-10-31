@@ -1,0 +1,19 @@
+.keyword-filter {
+    visibility: hidden;
+    margin-left: 5px;
+    font-size: 11px;
+}
+#search-logger-form tbody tr:hover .keyword-filter {
+    visibility: visible;
+}
+.result-wrap {
+    visibility: hidden;
+    display: inline;
+}
+#search-logger-form tbody tr:hover .result-wrap {
+    visibility: visible;
+}
+.result-view {
+    margin-left: 10px;
+    font-size: 11px;
+}
